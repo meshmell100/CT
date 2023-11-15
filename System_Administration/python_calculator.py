@@ -1,3 +1,6 @@
+# Meshack Mumo Mutunga
+# SCT212-0716/2022
+
 def get_question():
     global question
     question = input("Enter your question (Enter 'exit' to quit) : ")
